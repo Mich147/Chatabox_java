@@ -1,0 +1,24 @@
+.container {
+    padding-top: 0;
+    padding-left: 300px;
+    padding-right: 200px;
+    padding-bottom: 0;
+    align-items: center;
+}
+.container button{
+    width: 120px;
+    height: 70px;
+    align-items: top;
+    background-color: rgb(204, 177, 229);
+    font-size: x-large;
+    
+}
+.container img{
+    align-items: center;
+    height: 500px;
+  
+}
+.container h1 {
+   text-align: center;
+   
+}
